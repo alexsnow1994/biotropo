@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background: #B4922E;
 }
 
 #preloader:before {
@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #fff;
+  background: #F2E4BD;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -129,10 +129,10 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 #topbar .contact-info a:hover {
-  color: #1977cc;
+  color: #124B3B;
 }
 #topbar .contact-info i {
-  color: #1977cc;
+  color: #124B3B;
   padding-right: 4px;
   margin-left: 15px;
   line-height: 0;
@@ -141,14 +141,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 0;
 }
 #topbar .social-links a {
-  color: #437099;
+  color: #124B3B;
   padding-left: 15px;
   display: inline-block;
   line-height: 1px;
   transition: 0.3s;
 }
 #topbar .social-links a:hover {
-  color: #1977cc;
+  color: #124B3B;
 }
 #topbar .social-links a:first-child {
   border-left: 0;
@@ -158,7 +158,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #fff;
+  background: #B4922E;
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
@@ -181,9 +181,17 @@ h1, h2, h3, h4, h5, h6 {
   color: #124B3B;
 }
 #header .logo img {
-  max-height: 75px;
+  max-height: 100px;
 }
-
+#header .logo h2{
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  font-family: "Poppins", sans-serif;
+}
 /**
 * Appointment Button *
 */
@@ -580,7 +588,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .content {
   padding: 30px;
-  background: #6A3E7F;
+  background: #7E7C33;
   border-radius: 4px;
   color: #fff;
 }

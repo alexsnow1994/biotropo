@@ -8,7 +8,11 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+header{
+  background-color: #F2E4BD ; 
+}
 body {
+  background-color: #F2E4BD;
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }

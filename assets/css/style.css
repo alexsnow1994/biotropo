@@ -258,7 +258,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #1977cc;
+  color: #124B3B;
   border-color: #1977cc;
 }
 .navbar .dropdown ul {
